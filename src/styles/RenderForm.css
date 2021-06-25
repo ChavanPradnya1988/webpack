@@ -1,0 +1,21 @@
+*{
+  margin: 1px;
+  padding: 1px;
+}
+.input-form {
+    /* margin: 1rem; */
+    border: 2px double white;
+    margin:5rem;
+    padding:5rem;
+    align-items: center;
+    size: 50rem;
+    width:50%;
+  }
+  
+  .input-fields {
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+    size:50;
+  }
+
+  
